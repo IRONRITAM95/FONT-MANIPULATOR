@@ -1,0 +1,30 @@
+#head{
+    margin-top: 0px;
+    background-color: darkorange;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(107, 27, 107) ;
+}
+#foot{
+    bottom:0;
+    position: fixed;
+    background-color: darkorange;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(107, 27, 107) ;
+    width: 100%;
+}
+
+canvas{
+    border:30px;
+    border-radius: 40px;
+    border-color: darkorange;
+    border-style: inset;
+    background-color: darkkhaki;
+    margin-top: 45px;
+}
+#hw{
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(107, 27, 107);
+}
